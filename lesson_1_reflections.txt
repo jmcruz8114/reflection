@@ -1,0 +1,35 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It was pretty cool, I didn't have to open two files, line them up side by side, and make sure to scroll through all 1000+ lines to find some small differences.  Really great tool.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It is just easier to find small errors and I wish I new about this sooner.  I can't tell you how many nights I've laid awake trying to find out where I borke my code and now I have an easy way to find it or just go back to a earlier point and retry.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    The biggest pro is that you can make sure your commits make logical sense and the biggest con is user error, sometimes you could forget to make a commit when it is really needed.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Obviously Git was designed with programming in mind and programmers know that some projects require changing more than one file to make a single change.  Conversly, docs are usually their own seperate intity and don't usually effect others so saving those individually makes more sense.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log will help identify each commit by getting their id and brief explanation. git diff will allow you to compare one commit directly to another after obtaining the specific ids.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I don't have to worry about losing all my work or starting from scratch when I happen to introduce a bug, especially since it happens quite often:)
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I would like to see more of the id that i am currently working on (not sure if that is possible) and also change the color scheme, not a big fan of purple or dark colors in general as i like the background to be dark instead.
+
+    
