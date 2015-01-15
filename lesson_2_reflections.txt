@@ -19,6 +19,8 @@ organized? How would branches help?
 	
 How do the diagrams help you visualize the branch structure?
 
+	It help to get things clear, the whole detached head thing was a little different verbage than I would have used so it helped to see it.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
