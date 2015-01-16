@@ -23,6 +23,8 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	
+	The results of merging branches is a new file that contains updates from seperate workflows.  This eliminates having to manualy go through code to decipher where to introduce new lines of code that were developed at different times or by different people.  The representation in the diagram helps to keep things organized and in logical order so that if there is a need to go back then we understand how to get there.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
