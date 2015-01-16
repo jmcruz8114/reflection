@@ -16,7 +16,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    It helps when you know you might be offline for a while and you wanna have it stored for the road, or maybe you want an update on the job when your still working on it.  I could help you see the directions others are going as well and may eliminate extra work down the road
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
