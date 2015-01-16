@@ -28,3 +28,5 @@ the diagram the way we do?
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+	
+	The obvious Pro for doing it automatically is saving time, but it also reduces human error which can happen quite frequently when transcribing code manually.  The con is really just unexpected errors, which are usually the hardest and most time consuming to find.
